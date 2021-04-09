@@ -1,3 +1,6 @@
 [submodule "gitsub01"]
 	path = gitsub01
 	url = https://github.com/choiip/gitsub01.git
+[submodule "gitsub02"]
+	path = gitsub02
+	url = https://github.com/choiip/gitsub02.git
