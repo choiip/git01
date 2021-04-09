@@ -1,0 +1,3 @@
+[submodule "gitsub01"]
+	path = gitsub01
+	url = https://github.com/choiip/gitsub01.git
